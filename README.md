@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **in all aspect of computer programming**
 
-- 👨‍💻 All of my projects are available at [on Github](on Github)
+- 👨‍💻 All of my projects are available (on Github)
 
-- 📝 I regularly write articles [but not yet](but not yet)
+- 📝 I regularly write articles (but not yet)
 
 - 📫 How to reach me **emmaculate2excee@gmail.com**
 
