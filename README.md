@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emmaculate2excee@gmail.com**
 
-- 📄 Know about my experiences [Not resume attached yet](Not resume attached yet)
+- 📄 Know about my experiences (No resume attached yet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
