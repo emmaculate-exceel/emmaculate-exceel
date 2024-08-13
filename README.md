@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmaculate-exceel" alt="emmaculate-exceel" /></a> </p>
 
-- 🔭 I’m currently LEARNING [SOFTWARE ENGINEERING](with ALX Africa)
+- 🔭 I’m currently a LEARNER
 
 - 🌱 I’m currently learning **in all aspect of computer programming**
 
