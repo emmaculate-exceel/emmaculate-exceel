@@ -15,7 +15,10 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmaculate-exceel&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
 
-
+====================================
+![Stats Card 7](https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
+![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=emmaculate-exceel&data=followers,repositories,stars,commits&theme=dark)
+![Productive Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmaculate-exceel&theme=transparent)
 
 
 
