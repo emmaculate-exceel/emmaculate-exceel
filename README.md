@@ -7,7 +7,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaculate-exceel&show_icons=true&locale=en&layout=compact" alt="emmaculate-exceel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show_icons=true&locale=en" alt="emmaculate-exceel" /></p>
-
+======================================================================================================================
+<img height="180em" src="https://leetcard.jacoblin.cool/emmaculate-exceel?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 
 =========================================================================================================================================================================
 
@@ -24,4 +25,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmaculate-exceel&" alt="emmaculate-exceel" /></p>
+=============================================================================================================
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram.gif" width="100">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/facebook.gif" width="100">
