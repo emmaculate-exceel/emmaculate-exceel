@@ -8,17 +8,11 @@
 </p>
 <div class="stat" width="100%" align="center">
 
- ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmaculate-exceel&theme=radical)
+  ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
-</div>
-<div class="stat2 " widht="100%" align="center" >
-
-  ![Productive Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmaculate-exceel&theme=transparent)
-  
 </div>
 
 </div>
-===
 <div class="stats" height="20vh" style="display:flex">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaculate-exceel&show_icons=true&locale=en&layout=compact" alt="emmaculate-exceel" width="45%"/>
 <img height="250em" src="https://leetcard.jacoblin.cool/emmaculate-exceel?theme=dark&font=Josefin%20Slab&ext=heatmap" width="45%"/>
