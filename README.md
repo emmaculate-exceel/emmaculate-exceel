@@ -9,7 +9,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show_icons=true&locale=en" alt="emmaculate-exceel" /></p>
 ======================================================================================================================
 <img height="180em" src="https://leetcard.jacoblin.cool/emmaculate-exceel?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmaculate-exceel&theme=radical)
+
 
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmaculate-exceel&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
