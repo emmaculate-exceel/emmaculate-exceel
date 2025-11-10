@@ -19,7 +19,10 @@
 ![Stats Card 7](https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=emmaculate-exceel&data=followers,repositories,stars,commits&theme=dark)
 ![Productive Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmaculate-exceel&theme=transparent)
+====================================
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmaculate-exceel&theme=transparent"/>
 
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=emmaculate-exceel&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
 
 
 
