@@ -2,21 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmaculate-exceel&label=Profile%20views&color=0e75b6&style=flat" alt="emmaculate2exceel" /> </p>
   
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=emmaculate-exceel&data=followers,repositories,stars,commits&theme=dark)
-  
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmaculate-exceel" alt="emmaculate-exceel" /></a> </p>
 <p align="justify">
 </p>
-<div class="stat" width="100%">
-  
-![Stats Card 8](https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
+<div class="stat" width="100%" align="center">
+
+ ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmaculate-exceel&theme=radical)
 
 </div>
-<div class="stat2 " widht="100%">
+<div class="stat2 " widht="100%" align="center" >
 
   ![Productive Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmaculate-exceel&theme=transparent)
   
 </div>
+
 </div>
 ===
 <div class="stats" height="20vh" style="display:flex">
