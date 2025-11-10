@@ -25,4 +25,23 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaculate-exceel&show_icons=true&locale=en" alt="emmaculate-exceel" /></p>
 
+
+=========================================================================================================================================================================
+
+
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmaculate-exceel&theme=radical)
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmaculate-exceel&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmaculate-exceel&theme=react-dark&hide_border=false)
+
+
+
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmaculate-exceel&" alt="emmaculate-exceel" /></p>
