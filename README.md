@@ -3,11 +3,10 @@
   
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=emmaculate-exceel&data=followers,repositories,stars,commits&theme=dark)
 
-
 </p>
 <div class="stat" width="100%" align="center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=emmaculate-exceel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![github trophies](https://github-profile-trophy.vercel.app/?username=emmaculate-exceel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   
   ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/emmaculate-exceel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
