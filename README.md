@@ -23,7 +23,7 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmaculate-exceel&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
 <div class="footer">
-<img height="250em" src="https://github-contributor-stats.vercel.app/api?username=emmaculate-exceel&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" width=""/>
+<img height="230em" src="https://github-contributor-stats.vercel.app/api?username=emmaculate-exceel&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" width=""/>
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="12%">
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram.gif" width="12%">
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="12%">
